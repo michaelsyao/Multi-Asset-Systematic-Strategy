@@ -1,38 +1,32 @@
 # Portfolio Construction Related Projects
-```
-Below are some projects regarding Portfolio Construction
-```
 
-## 1. Princal Componenet Analysis.Autoencoder: this technique is widely used for various asset class
-(a). [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodA_PCA/Final_pca_eigen_portfolios_m2_ex3.ipynb): Use PCA and Autoencoder to construt optimization Portfolio
-> Use PCA and Autoencoder to construt optimization Portfolio
 
-## 2. Clustering and hierarchical risk parity: 
-(a). [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodB_Clustering/ClusteringInvestors.ipynb)
-> It can be applied in ESG and HRP
+## A. PCA and Autoencoder: 
+1. [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodA_PCA/Final_pca_eigen_portfolios_m2_ex3.ipynb)
 
-(b).  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodB_Clustering/HierarchicalRiskParity.ipynb)
-> It can be applied in ESG and HRP
 
-## 3. Reinforecment Learning Method
-(a). [Glearning-Wealth-Management](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodC_ReinforceLearning/Glearning-Wealth-Management.ipynb)
-> Use Reinforcement Learning Method to get the optimized Result
+## B. Clustering and hierarchical risk parity: 
+1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodB_Clustering/ClusteringInvestors.ipynb)
 
-(b). [PortfolioAllocation](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodC_ReinforceLearning/PortfolioAllocation.ipynb)
-> Use Reinforcement Learning Method to get the optimized Result
+2.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodB_Clustering/HierarchicalRiskParity.ipynb)
 
-## 4. Factor Investing 
 
-## 5. Smart Beta
+## C. Reinforecment Learning Method
+1. [Glearning-Wealth-Management](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodC_ReinforceLearning/Glearning-Wealth-Management.ipynb)
 
-## 6. Regime Switching & Hidden Markov
+2. [PortfolioAllocation](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodC_ReinforceLearning/PortfolioAllocation.ipynb)
 
-## 7. Market Denoising: 
-(a). [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodD_DenoisingandDetoning/ClusteringInvestors.ipynb)
-> Use Reinforcement Learning Method to get the optimized Result
+## D. Factor Investing 
 
-## 8. Efficient Frontier
+## E. Smart Beta
 
-## 9. Risk Parity
+## F. Regime Switching & Hidden Markov
 
-## 10. General Techniques
+## G. Market Denoising: 
+1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/MethodD_DenoisingandDetoning/ClusteringInvestors.ipynb)
+
+## H. Efficient Frontier
+
+## I. Risk Parity
+
+## J. General Techniques
