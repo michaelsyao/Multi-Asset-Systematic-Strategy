@@ -5,7 +5,7 @@
 1. [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/A_PCA.Autoencoder/Final_pca_eigen_portfolios_m2_ex3.ipynb)
 
 
-## B. Clustering and hierarchical risk parity: 
+## B. Hierarchical risk parity and Clustering: 
 1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/B_Clustering.HRP/ClusteringInvestors.ipynb)
 
 2.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/B_Clustering.HRP/HierarchicalRiskParity.ipynb)
