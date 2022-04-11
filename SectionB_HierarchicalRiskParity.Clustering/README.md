@@ -19,7 +19,7 @@ This section forcuses on Multi-Asset-Systematic Strategy
 
 1. [Dense Neutral Network](Proj1_DNN_FX.ipynb)
 
-## B. FX Strategy 
+## B. Clustering 
 > Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
 1. [Dense Neutral Network](Proj1_DNN_FX.ipynb)
 
