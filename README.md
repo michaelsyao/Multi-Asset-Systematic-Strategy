@@ -11,10 +11,9 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 
 ## B. Hierarchical risk parity and Clustering:
-1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/ClusteringInvestors.ipynb)
+1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/HierarchicalRiskParity.ipynb)
 
-2.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/HierarchicalRiskParity.ipynb)
-
+2. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/ClusteringInvestors.ipynb)
 
 ## C. Reinforecment Learning Method
 1. [Glearning-Wealth-Management](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectC_ReinforementLearning/Glearning-Wealth-Management.ipynb)
