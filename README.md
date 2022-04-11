@@ -10,8 +10,9 @@ Generally speaking, the major perperties of a well-risk managed programme should
 2. [Denoised_Eigen_value](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectA_PCA.Autoencoder.Denoising/Denoised_Eigen_value/README.md)
 
 
-## [B. Hierarchical risk parity and Clustering]:
-https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy_Project/tree/main/SectionB_HierarchicalRiskParity.Clustering 
+## B. Hierarchical risk parity and Clustering:
+[Section Summary] (https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy_Project/tree/main/SectionB_HierarchicalRiskParity.Clustering) 
+
 1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/ClusteringInvestors.ipynb)
 
 2.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/HierarchicalRiskParity.ipynb)
