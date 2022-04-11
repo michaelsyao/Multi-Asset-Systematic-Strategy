@@ -1,4 +1,4 @@
-# Portfolio Construction Related Projects/Issue
+# Multi-Asset-Systematic-Strategy
 Generally speaking, the major perperties of a well-risk managed programme should consider.
 
 #### [1]: Relative stable and controlled daily return profile
@@ -11,8 +11,6 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 
 ## B. Hierarchical risk parity and Clustering:
-[Section Summary] (https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy_Project/tree/main/SectionB_HierarchicalRiskParity.Clustering) 
-
 1. [Clustering Investor Type](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/ClusteringInvestors.ipynb)
 
 2.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/HierarchicalRiskParity.ipynb)
