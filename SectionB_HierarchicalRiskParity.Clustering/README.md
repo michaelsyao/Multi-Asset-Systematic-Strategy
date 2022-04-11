@@ -1,6 +1,6 @@
 # Hierarchical Risk Parity and Clustering Application
 ```
-This section forcuses on Multi-Asset-Systematic Strategy
+This section forcuses on Clustering application on Portfolio Allocation 
 ```
 ## A. Hierarchy Risk Parity
 #### The Problem With Markwoitz's Optimization Method
