@@ -1,6 +1,6 @@
-# Hierarchical Risk Parity and Clustering Application_change
+# MicroStructure-related Project
 ```
-This section forcuses on Clustering application on Portfolio Allocation 
+This section cover research related to Microstructure 
 ```
 ## A. Hierarchy Risk Parity
 #### The Problem With Markwoitz's Optimization Method
