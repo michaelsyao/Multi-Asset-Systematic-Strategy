@@ -22,5 +22,6 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 ## D. Regime Switching & Hidden Markov
 
+## E. MicroStructure
 
 
