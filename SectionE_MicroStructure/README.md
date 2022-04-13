@@ -8,11 +8,4 @@ This section cover research related to Microstructure
 > Applying the Dickey-Fuller test to establish stationarity of the endogenous series, followed by use of the ACF and PACF to identify the ARIMA model order.
 
 
-1. [HierarchicalRiskParity](HierarchicalRiskParity.ipynb)
-
-## B. Clustering 
-> Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
-1. [Dense Neutral Network](Proj1_DNN_FX.ipynb)
-
-> Project 2: 
-2. [Equity Model Calibration](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
+1. [OrderFlowImbalance](HierarchicalRiskParity.ipynb)
