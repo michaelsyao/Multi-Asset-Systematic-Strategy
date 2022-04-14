@@ -5,7 +5,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 #### [2]: Risk profile independent of the overall market risk level
 
 ## A. SectionA. Portfolio Construction(HRP, PCA, Autoencoder):
-1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectB_HierarchicalRiskParity.Clustering/HierarchicalRiskParity.ipynb)
+1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/01.PF_Hierarchical%20Risk%20Parity.ipynb)
 
 2. [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectA_PCA.Autoencoder.Denoising/Final_pca_eigen_portfolios_m2_ex3.ipynb)
 
