@@ -21,8 +21,12 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 2. [PortfolioAllocation](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectC_ReinforementLearning/PortfolioAllocation.ipynb)
 
-## D. Regime Switching & Hidden Markov
+## D. SectionD. MicroStructue.Econometrics:
+> This section includes Time Series for Order book prediction
+1.  [01.Micro_OFI_ARIMA-HFT](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionB.Derivatives%20Strategy/Strategy1_ShortStrangle.m)
 
-## E. MicroStructure
+
+## E. Regime Switching & Hidden Markov
+
 
 
