@@ -9,7 +9,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 2. [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/02.PF_Eigen.PCA.ipynb)
 
-4. [Denoised_Eigen_value](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectA_PCA.Autoencoder.Denoising/Denoised_Eigen_value/README.md)
+4. [Denoised_Eigen_value](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/04.PF_Denoised_Eigen_value.py)
 
 
 ## C. Reinforecment Learning Method
