@@ -1,6 +1,6 @@
 # Regime Detection and HMM
 ```
-This section cover research related to Microstructure 
+This section cover Regime Detection and Hidden Markov Modeling  
 ```
 ## A. HMM_Viterbi
 >  The algorithm will determine the most likely sequence of hidden states, i.e. whether the coin that generated the data was likely fair or loaded.
