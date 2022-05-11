@@ -22,6 +22,6 @@ This section forcuses on Clustering application on Portfolio Allocation
 > Use Eigen-portfolio construction using PCA method
 1. [Eigen Portfolio PCA](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/02.PF_Eigen.PCA.ipynb)
 
-## C. Use Eigen-portfolio construction using Principal Component Analysis (PCA)
-> Use Eigen-portfolio construction using PCA method
+## C. Use Eigen for Denoised portfolio
+> Use Eigen for Denoised portfolio
 2. [Equity Model Calibration](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
