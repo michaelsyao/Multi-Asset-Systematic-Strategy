@@ -18,9 +18,9 @@ This section forcuses on Clustering application on Portfolio Allocation
 
 1. [HierarchicalRiskParity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/01.PF_Hierarchical%20Risk%20Parity.ipynb)
 
-## B. Clustering 
-> Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
-1. [Dense Neutral Network](Proj1_DNN_FX.ipynb)
+## B. Eigen-portfolio construction using Principal Component Analysis (PCA)
+> Use Eigen-portfolio construction using PCA method
+1. [Eigen Portfolio PCA](Proj1_DNN_FX.ipynb)
 
 > Project 2: 
 2. [Equity Model Calibration](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
