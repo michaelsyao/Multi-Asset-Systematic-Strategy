@@ -24,4 +24,4 @@ This section forcuses on Clustering application on Portfolio Allocation
 
 ## C. Use Eigen for Denoised portfolio
 > Use Eigen for Denoised portfolio
-2. [Equity Model Calibration](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
+2. [Eigen for Denoised PF](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
