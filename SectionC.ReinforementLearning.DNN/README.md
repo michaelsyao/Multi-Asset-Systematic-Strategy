@@ -27,7 +27,7 @@ This section forcuses on ReinforementLearning and DNN
 | Train      | 59.3% | 92.1% | 77.5% | 89.4% | 76.1% | Adam
 | Test   | 61.3% |67.7%|64.5%|67.2% |66.6%| 64.7%|
 
-1. [DenseNeutralNetwork for FX](HierarchicalRiskParity.ipynb)
+1. [DenseNeutralNetwork for FX](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionC.ReinforementLearning.DNN/01_DenseNeutralNetwork_FX.ipynb)
 
 ## B. Use Recurrent Neutral Network for FX price discovery
 > Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
