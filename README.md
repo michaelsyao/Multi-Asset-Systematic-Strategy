@@ -4,7 +4,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 #### [1]: Relative stable and controlled daily return profile
 #### [2]: Risk profile independent of the overall market risk level
 
-## A. [Portfolio Construction](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/01.PF_Hierarchical%20Risk%20Parity.ipynb):
+## A. [Portfolio Construction](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionA.Portfolio%20Construction):
 > This section includes Hierarchical Risk Parity, Eigen Portfolio construction via PCA, and Denoised for Eigen portfolio
 1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/01.PF_Hierarchical%20Risk%20Parity.ipynb)
 
