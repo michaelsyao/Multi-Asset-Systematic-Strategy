@@ -16,7 +16,7 @@ This section forcuses on Clustering application on Portfolio Allocation
 
 > The Hierarchical Risk Parity method uses the information contained in the covariance matrix without requiring its inversion or positive-definitiveness. The algorithm operates in 2 stages 1) tree clustering 2) qusai-diagonalization, 3) recursive bisection.
 
-1. [HierarchicalRiskParity](HierarchicalRiskParity.ipynb)
+1. [HierarchicalRiskParity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/01.PF_Hierarchical%20Risk%20Parity.ipynb)
 
 ## B. Clustering 
 > Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
