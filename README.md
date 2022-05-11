@@ -26,7 +26,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 1.  [Micro_OFI_ARIMA-HFT](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionD.MicroStructue.Econometrics/01.Micro_OFI_ARIMA-HFT.ipynb)
 
 
-## E. Regime Switching & Hidden Markov
+## [E.Regime Switching & Hidden Markov](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
 > This section includes Regime Detection with Hidden Markov Model
 1.  [HMM_Viterbi](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionD.%20MicroStructue.Econometrics/01.Micro_OFI_ARIMA-HFT.ipynb)
 
