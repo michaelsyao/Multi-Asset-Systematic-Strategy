@@ -12,7 +12,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 3. [Denoised_Eigen_value](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/04.PF_Denoised_Eigen_value.py)
 
-## B. Derivatives Strategy:
+## [B. Derivatives Strategy](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionB.Derivatives%20Strategy/01.Gamma%20Scalping):
 > This section includes GammaScalping
 1.  [GammaScalping](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionB.Derivatives%20Strategy/Strategy1_ShortStrangle.m)
 
