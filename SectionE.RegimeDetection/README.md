@@ -8,7 +8,7 @@ The example easily maps onto financial markets: Bull or Bear, Normal or Dislocat
 
 > This can easily maps onto financial markets: Bull or Bear, Normal or Dislocated, etc.
 
-1. [HMM_Viterbi](ML_in_Finance_Microstructure.ipynb.ipynb)
+1. [HMM_Viterbi](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 
 ## B. Kalman_Filters
 >  This show particle filtering to stochastic volatility modeling.
