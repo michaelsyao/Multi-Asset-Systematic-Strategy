@@ -23,7 +23,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 ## [D.MicroStructue.Econometrics](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionD.MicroStructue.Econometrics):
 > This section includes Time Series for Order book prediction
-1.  [Micro_OFI_ARIMA-HFT](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionD.%20MicroStructue.Econometrics/01.Micro_OFI_ARIMA-HFT.ipynb)
+1.  [Micro_OFI_ARIMA-HFT](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionD.MicroStructue.Econometrics/01.Micro_OFI_ARIMA-HFT.ipynb)
 
 
 ## E. Regime Switching & Hidden Markov
