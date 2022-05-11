@@ -1,4 +1,4 @@
-# ReinforementLearning.DNN.RNN
+# ReinforcementLearning.DNN.RNN
 ```
 This section forcuses on ReinforementLearning and DNN 
 ```
