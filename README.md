@@ -6,7 +6,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 ## A. Portfolio Construction:
 > This section includes Hierarchical Risk Parity, Eigen Portfolio construction via PCA, and Denoised for Eigen portfolio
-1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/01.PF_Hierarchical%20Risk%20Parity.ipynb)
+1.  [Hierarchical Risk Parity](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.Portfolio%20Construction/01.PF_Hierarchical%20Risk%20Parity.ipynb)
 
 2. [Eigen Portfolio construction via PCA](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionA.%20Portfolio%20Construction(HRP%2C%20PCA%2C%20Autoencoder)/02.PF_Eigen.PCA.ipynb)
 
