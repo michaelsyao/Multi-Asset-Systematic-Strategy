@@ -8,4 +8,4 @@ This section cover research related to Microstructure
 > Applying the Dickey-Fuller test to establish stationarity of the endogenous series, followed by use of the ACF and PACF to identify the ARIMA model order.
 
 
-1. [OrderFlowImbalance](ML_in_Finance_Microstructure.ipynb.ipynb)
+1. [OrderFlowImbalance](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionD.MicroStructue.Econometrics/01.Micro_OFI_ARIMA-HFT.ipynb)
