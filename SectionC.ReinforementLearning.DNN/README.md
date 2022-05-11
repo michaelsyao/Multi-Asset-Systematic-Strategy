@@ -31,5 +31,5 @@ This section forcuses on ReinforementLearning and DNN
 
 ## B. Use Recurrent Neutral Network for FX price discovery
 > Project 1: Use Dense Neutral Network along with Normalization and Bagging technique to increase performance 
-1. [Dense Neutral Network](Proj1_DNN_FX.ipynb)
+1. [Recurrent Neutral Network](Proj1_DNN_FX.ipynb)
 
