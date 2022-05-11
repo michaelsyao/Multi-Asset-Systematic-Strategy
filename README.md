@@ -17,7 +17,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 1.  [GammaScalping](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionB.Derivatives%20Strategy/01.Gamma%20Scalping/Strategy1_ShortStrangle.m)
 
 ## [C.Reinforecment Learning Method](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionC.ReinforementLearning.DNN)
-1. [DNN for FX](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectC_ReinforementLearning/Glearning-Wealth-Management.ipynb)
+1. [DNN for FX](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionC.ReinforementLearning.DNN/01_DenseNeutralNetwork_FX.ipynb)
 
 2. [PortfolioAllocation](https://github.com/michaelsyao/Portfolio_Construction_Projects/tree/main/ProjectC_ReinforementLearning/PortfolioAllocation.ipynb)
 
