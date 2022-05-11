@@ -13,4 +13,4 @@ The example easily maps onto financial markets: Bull or Bear, Normal or Dislocat
 ## B. Kalman_Filters
 >  This show particle filtering to stochastic volatility modeling.
 
-1. [Kalman_Filters](ML_in_Finance_Microstructure.ipynb.ipynb)
+1. [Kalman_Filters](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/02.Kalman_Filters.ipynb)
