@@ -46,4 +46,4 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 >Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by
 analyzing fundamental data, and by quadratic programming.
-3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
+3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project3_Smart%20Beta%20and%20Portfolio%20Optimization.ipynb)
