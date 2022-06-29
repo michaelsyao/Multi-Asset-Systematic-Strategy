@@ -38,7 +38,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 2.  [Sentiment Analysis with LSTM](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionF.NLP.SentimentAnalysis/Project2_SentimentAnalysis_Twitter.ipynb)
 
 ## [G.SectionG.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
-> This section includes Machine Learning with NLP
+>Combine signals on a random forest for enhanced alpha. Solve the problem of overlapping samples.
 1.  [Combining Signals for Enhanced Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 2.  [Multi-Factor Model](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
