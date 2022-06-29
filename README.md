@@ -34,7 +34,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 > Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 1.  [Sentiment Analysis on Financial Statements](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionF.NLP.SentimentAnalysis/Project1_NLP_FinancialStatement.ipynb)
 
-> Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
+> Build deep neural networks to process news data. Use different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Backtests and apply the models to news data for signal generation.
 2.  [Sentiment Analysis with LSTM](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 
 ## [G.SectionG.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
