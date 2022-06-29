@@ -42,5 +42,8 @@ Generally speaking, the major perperties of a well-risk managed programme should
 1.  [Combining Signals for Enhanced Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project1_Combining_Signals_for_Enhanced_Alpha.ipynb)
 
 >Generate multiple alpha factors. Evaluate the performance of alpha factors and formulate an advanced portfolio optimization by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures
-2.  [Multi-Factor Model](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
-4.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
+2.  [Multi-Factor Model](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project2_Multi-Factor%20Model.ipynb)
+
+>Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by
+analyzing fundamental data, and by quadratic programming.
+3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
