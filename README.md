@@ -32,7 +32,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 
 ## [F.Sentiment Analysis & NLP](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
 > This section includes Machine Learning with NLP
-1.  [Sentiment Analysis on Financial Statements](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
+1.  [Sentiment Analysis on Financial Statements](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionF.NLP.SentimentAnalysis/Project1_NLP_FinancialStatement.ipynb)
 2.  [Sentiment Analysis with LSTM](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 
 ## [G.SectionG.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
