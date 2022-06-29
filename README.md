@@ -31,7 +31,12 @@ Generally speaking, the major perperties of a well-risk managed programme should
 2.  [Kalman_Filters](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/02.Kalman_Filters.ipynb)
 
 ## [F.Sentiment Analysis & NLP](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
-> This section includes Regime Detection with Hidden Markov Model
+> This section includes Machine Learning with NLP
 1.  [Sentiment Analysis on Financial Statements](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 2.  [Sentiment Analysis with LSTM](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
 
+## [G.SectionG.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
+> This section includes Machine Learning with NLP
+1.  [Combining Signals for Enhanced Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
+2.  [Multi-Factor Model](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
+3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionE.RegimeDetection/01.HMM_Viterbi.ipynb)
