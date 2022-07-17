@@ -37,7 +37,7 @@ Generally speaking, the major perperties of a well-risk managed programme should
 > Build deep neural networks to process news data. Use different ways of embedding words into vectors. Construct and train LSTM networks for sentiment classification. Backtests and apply the models to news data for signal generation.
 2.  [Sentiment Analysis with LSTM](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionF.NLP.SentimentAnalysis/Project2_SentimentAnalysis_Twitter.ipynb)
 
-## [G.SectionG.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
+## [G.Multi-Factor.SmartBeta.Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
 >Combine signals on a random forest for enhanced alpha. Solve the problem of overlapping samples.
 1.  [Combining Signals for Enhanced Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project1_Combining_Signals_for_Enhanced_Alpha.ipynb)
 
