@@ -48,6 +48,6 @@ Generally speaking, the major perperties of a well-risk managed programme should
 analyzing fundamental data, and by quadratic programming.
 3.  [Smart Beta and Portfolio Optimization](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project3_Smart%20Beta%20and%20Portfolio%20Optimization.ipynb)
 
-## [H.Equity Model Calibration](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
+## [H.Derivatives Calibration](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionE.RegimeDetection)
 >Equity Model Calibration.
-1.  [Combining Signals for Enhanced Alpha](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project1_Combining_Signals_for_Enhanced_Alpha.ipynb)
+1.  [Fast Fourier Transformation](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionG.Multi-Factor.SmartBeta.Alpha/Project1_Combining_Signals_for_Enhanced_Alpha.ipynb)
