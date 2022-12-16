@@ -51,4 +51,6 @@ analyzing fundamental data, and by quadratic programming.
 ## [H.Derivatives Calibration](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/tree/main/SectionH.Derivatives%20Calibration)
 
 >Equity Model Calibration.
+
+> COS: Greeks are obtain at no additional Cost. Application for Discrete Barrier 
 1.  [Fast Fourier Transformation](https://github.com/michaelsyao/Multi-Asset-Systematic-Strategy/blob/main/SectionH.Derivatives%20Calibration/01.DensityRecoveryFFT.py)
